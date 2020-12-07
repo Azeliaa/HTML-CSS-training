@@ -92,4 +92,42 @@ section #description_quote--author {
   margin-top: 10px;
 }
 
+footer {
+  background-color: #5B359D;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+footer #agency-name {
+  font-size: 0.8rem;
+  margin-top: 40px;
+}
+footer #social-media {
+  color: #bdaed8;
+  font-size: 2rem;
+}
+footer #social-media i {
+  margin: 0px 35px;
+}
+footer #footer-links {
+  display: flex;
+}
+footer #footer-links_quick-access, footer #footer-links_about, footer #footer-links_address {
+  margin: 50px 100px;
+}
+footer #footer-links .title {
+  color: #bd9bc1;
+}
+footer #footer-links #adress {
+  color: white;
+}
+footer #footer-links a {
+  text-decoration: none;
+  color: white;
+}
+footer #footer-links a:hover {
+  text-decoration: underline;
+}
+
 /*# sourceMappingURL=style.css.map */
