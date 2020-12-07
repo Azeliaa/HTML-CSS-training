@@ -1,0 +1,19 @@
+{
+  "name": "html-css-training",
+  "version": "1.0.0",
+  "description": "HTML-CSS-training",
+  "main": "index.js",
+  "scripts": {
+    "sass" : "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azeliaa/HTML-CSS-training.git"
+  },
+  "author": "Elodie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azeliaa/HTML-CSS-training/issues"
+  },
+  "homepage": "https://github.com/Azeliaa/HTML-CSS-training#readme"
+}
